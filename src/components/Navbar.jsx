@@ -241,7 +241,7 @@ export default function Navbar() {
                                              bg-red-500 text-white text-[10px]
                                               w-5 h-5 rounded-full flex items-center
                                                justify-center font-bold'>
-                                                3
+                                                 {count}
                                             </span>
 
                                         </button>
